@@ -1,0 +1,14 @@
+Source: go-ldap
+Section: devel
+Priority: extra
+Maintainer: Tonnerre Lombard <tonnerre@ancient-solutions.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: https://github.com/mmitton/ldap
+Vcs-Git: https://github.com/mmitton/ldap.git
+Vcs-Browser: https://github.com/mmitton/ldap
+
+Package: go-ldap
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, go-asn1-ber
+Description: Basic LDAP v3 functionality for the GO programming language.
