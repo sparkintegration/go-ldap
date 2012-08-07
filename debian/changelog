@@ -1,5 +1,12 @@
+go-ldap (0.20110526-2) unstable; urgency=low
+
+  * Rebuild for Go 1.0.2
+
+ -- Tonnerre Lombard <tonnerre@ancient-solutions.com>  Tue, 07 Aug 2012 22:06:29 +0200
+
 go-ldap (0.20110526-1) unstable; urgency=low
 
   * Initial release
 
  -- Tonnerre Lombard <tonnerre@ancient-solutions.com>  Wed, 20 Jun 2012 02:31:53 +0200
+
